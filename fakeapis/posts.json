@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "author": {
+        "id": 1,
+        "name": "User 1",
+        "email": "user1@domain.com"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "author": {
+        "id": 2,
+        "name": "User 2",
+        "email": "user2@domain.com"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "author": {
+        "id": 2,
+        "name": "User 2",
+        "email": "user1@domain.com"
+      }
+    }
+  ],
+  "meta": {
+    "totalPages": 1,
+    "totalCount": 3,
+    "page": 1,
+    "limit": 10
+  }
+}
