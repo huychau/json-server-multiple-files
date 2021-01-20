@@ -1,4 +1,4 @@
-# JSON Server Multiple Files/Resource
+# JSON Server Multiple Files/Resources
 
 JSON Server: https://github.com/typicode/json-server/
 
@@ -12,7 +12,6 @@ npm install -g json-server
 
 ### Install local
 
-At `json-server-multiple-files/`, run
 ```
 npm install
 ```
